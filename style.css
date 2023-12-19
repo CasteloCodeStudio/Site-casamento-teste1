@@ -132,10 +132,16 @@ h3{
 button{
     margin-top: 30px;
     margin-bottom: 60px;
+    padding: 20px 40px;
+    font-size: 25px;
 }
 
 .div1{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.text-info{
+    font-size: 25px;
 }
